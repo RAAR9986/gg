@@ -3,4 +3,4 @@ prefix=!
 game=Bot Music 
 stayinchannel=true
 songinstatus=false
-token=NTkxNzMyOTc5ODUyNzcxMzMw.XRz5JA.hZ40YF2ma_1Ev9VFt-ECb-L2uPM
+token="NTkxNzMyOTc5ODUyNzcxMzMw.XRz5JA.hZ40YF2ma_1Ev9VFt-ECb-L2uPM"
